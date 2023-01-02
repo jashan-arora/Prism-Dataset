@@ -1,0 +1,50 @@
+<annotation>
+	<folder>PRISM PenDrive</folder>
+	<filename>IMG_4194.PNG</filename>
+	<path>/Users/jashanarora/Downloads/PRISM PenDrive/IMG_4194.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1170</width>
+		<height>2532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PenDrive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>707</ymin>
+			<xmax>458</xmax>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PenDrive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>1133</ymin>
+			<xmax>351</xmax>
+			<ymax>1651</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PenDrive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>1947</ymin>
+			<xmax>173</xmax>
+			<ymax>2233</ymax>
+		</bndbox>
+	</object>
+</annotation>

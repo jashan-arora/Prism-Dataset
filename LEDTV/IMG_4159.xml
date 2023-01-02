@@ -1,0 +1,38 @@
+<annotation>
+	<folder>PRISM LED</folder>
+	<filename>IMG_4159.PNG</filename>
+	<path>/Users/jashanarora/Downloads/PRISM LED/IMG_4159.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1170</width>
+		<height>2532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LEDTV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>921</ymin>
+			<xmax>466</xmax>
+			<ymax>1210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LEDTV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>1525</ymin>
+			<xmax>454</xmax>
+			<ymax>1799</ymax>
+		</bndbox>
+	</object>
+</annotation>
